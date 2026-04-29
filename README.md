@@ -32,5 +32,5 @@ Estudiante de 3er año de la Licenciatura en Ciencias de la Computación (UNRC) 
 ---
 
 ### 📫 Contacto
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/juan-boyero)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-boyero)
 [![Website](https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://juanboyero-dev.netlify.app/)
