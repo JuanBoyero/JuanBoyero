@@ -4,7 +4,7 @@ Estudiante de 3er año de la Licenciatura en Ciencias de la Computación (UNRC) 
 
 ### 🚀 Sobre mí
 - 💻 Actualmente enfocándome en el desarrollo Backend y la arquitectura de software.
-- 🎓 Construyendo el **Simulador SisInfo** (Sistema de Gestión Universitaria).
+- 🎓 Construyendo el mi camino en el mundo dev.
 - 🐧 Usuario entusiasta de Linux y la terminal.
 - 🌐 Podés ver mis proyectos en mi [Portafolio Web](https://juanboyero-dev.netlify.app/)
 
@@ -26,7 +26,7 @@ Estudiante de 3er año de la Licenciatura en Ciencias de la Computación (UNRC) 
 ### 📊 Mis Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuanBoyero&show_icons=true&theme=radium&hide_border=true" alt="Estadísticas de Juan" />
+ <img src="https://github-readme-stats.vercel.app/api?username=JuanBoyero&show_icons=true&theme=radium&hide_border=true" alt="Estadísticas de Juan" />
 </div>
 
 ---
