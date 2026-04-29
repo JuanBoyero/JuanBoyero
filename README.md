@@ -1,16 +1,36 @@
-## Hi there 👋
+# ¡Hola! Soy Juan Boyero 👋
 
-<!--
-**JuanBoyero/JuanBoyero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de 3er año de la Licenciatura en Ciencias de la Computación (UNRC) y Desarrollador de Software. Me apasiona resolver problemas complejos, construyendo desde bases de datos sólidas hasta aplicaciones funcionales.
 
-Here are some ideas to get you started:
+### 🚀 Sobre mí
+- 💻 Actualmente enfocándome en el desarrollo Backend y la arquitectura de software.
+- 🎓 Construyendo el **Simulador SisInfo** (Sistema de Gestión Universitaria).
+- 🐧 Usuario entusiasta de Linux y la terminal.
+- 🌐 Podés ver mis proyectos en mi [Portafolio Web](https://juanboyero-dev.netlify.app/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Mi Stack Tecnológico
+
+**Lenguajes:**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-F80000?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**Herramientas y Entorno:**
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📊 Mis Estadísticas de GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JuanBoyero&show_icons=true&theme=radium&hide_border=true" alt="Estadísticas de Juan" />
+</div>
+
+---
+
+### 📫 Contacto
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/juan-boyero)
+[![Website](https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://juanboyero-dev.netlify.app/)
