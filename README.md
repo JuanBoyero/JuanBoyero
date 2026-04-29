@@ -6,6 +6,7 @@ Estudiante la Licenciatura en Ciencias de la Computación (UNRC) y Desarrollador
 - 💻 Actualmente enfocándome en el desarrollo Backend y la arquitectura de software.
 - 🎓 Construyendo el mi camino en el mundo dev.
 - 🐧 Usuario entusiasta de Linux y la terminal.
+- ⚡ Fuera de la terminal de Ubuntu, me encontrás practicando boxeo, armando tácticas de fútbol o en algún simulador de rally.
 - 🌐 Podés ver mis proyectos en mi [Portafolio Web](https://juanboyero-dev.netlify.app/)
 
 ### 🛠️ Mi Stack Tecnológico
@@ -23,10 +24,11 @@ Estudiante la Licenciatura en Ciencias de la Computación (UNRC) y Desarrollador
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
+### 📊 Mis Estadísticas y Lenguajes
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=JuanBoyero&show_icons=true&theme=radium&hide_border=true" alt="Estadísticas de Juan" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JuanBoyero&show_icons=true&theme=radium&hide_border=true" alt="Estadísticas de Juan" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanBoyero&layout=compact&theme=radium&hide_border=true" alt="Top Lenguajes de Juan" />
 </div>
 
 ---
